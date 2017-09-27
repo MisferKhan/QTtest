@@ -1,0 +1,2 @@
+# QTtest
+testForCrossCompilingQT
